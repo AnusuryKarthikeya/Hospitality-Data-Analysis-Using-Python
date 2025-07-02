@@ -1,7 +1,7 @@
-🏨 Hotels Analysis with Exploratory Data Analysis (EDA)
+# 🏨 Hotels Analysis with Exploratory Data Analysis (EDA)
 Welcome to the Hotels Analysis project! This project involves comprehensive Exploratory Data Analysis (EDA) on hotel booking data to uncover trends, patterns, and insights using Python libraries like Pandas, Matplotlib, and Seaborn.
 
-📌 Project Overview
+# 📌 Project Overview
 This notebook performs EDA on a hotel booking dataset. It includes:
 
 Cleaning and preprocessing data
@@ -16,7 +16,7 @@ Comparing city vs. resort hotels
 
 Exploring seasonal trends and market segments
 
-📊 Technologies & Libraries Used
+# 📊 Technologies & Libraries Used
 Python 🐍
 
 Jupyter Notebook 📓
@@ -30,10 +30,10 @@ Seaborn 🎨
 Matplotlib 📊
 
 
-🧠 Key Insights
+# 🧠 Key Insights
 City hotels tend to have higher cancellation rates than resort hotels.
 
-The highest number of bookings occur during summer months.
+The highest number of bookings occurs during summer months.
 
 Longer lead times are associated with higher cancellation probability.
 
